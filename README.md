@@ -39,7 +39,8 @@ I am currently pursuing a Master of Science in Business Analytics with a concent
 
 ## 📞 Contact Me
 - **Email:** [goodnessrex24@gmail.com](mailto:goodnessrex24@gmail.com)
-- **LinkedIn:** [GoodnessRex](www.linkedin.com/in/goodnessrex)
+- **LinkedIn:** [Goodness Rex](https://linkedin.com/in/goodnessrex)
+
 
 
 ## 📜 Certifications
