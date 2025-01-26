@@ -23,10 +23,10 @@ I am currently pursuing a Master of Science in Business Analytics with a concent
 
 
 ## 📂 Featured Projects
-### 1. [Security Training Plan](https://github.com/your-repo/security-training)
-- Designed a comprehensive training plan for IT staff to improve security awareness.
-- Tools: Microsoft 365, SharePoint, and Planner.
-- **Highlights:** Reduced phishing attacks by 30% after implementation.
+### 1. [NewYork AirBNB Data Analysis](https://github.com/gudythecoder/AirBNB)
+- Analyzing airbnb data for trends in the market.
+- Tools: R.
+- **Highlights:** Finding trends helps identify where to put resources to boost sales..
 
 ### 2. [Network Monitoring Dashboard](https://github.com/your-repo/network-dashboard)
 - Built a dashboard to monitor network performance in real time.
